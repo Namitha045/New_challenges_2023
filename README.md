@@ -1,1 +1,1 @@
-# New_challenges_2023
+# This repo is for the challenges in https://devchallenges.io/
